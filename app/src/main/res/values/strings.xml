@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RFIDPairingTest</string>
+    <string name="status_paired">Paired with bluetooth device</string>
+    <string name="status_connected">Connected to RFID reader</string>
+    <string name="status_disconnected">Disconnected</string>
+    <string name="error_bluetooth_disabled">Please enable bluetooth</string>
+    <string name="error_device_is_null">Error, device == null</string>
+    <string name="error_max_attempts">Maximum connection attempts reached</string>
+    <string name="error_region">Error, Reader Region not configured</string>
+    <string name="error_incorrect_password">Error, Incorrect Device Password</string>
+    <string name="error_batch_mode">Error, Device in batch mode</string>
+    <string name="n_a">N/A</string>
+    <string name="password_dlg_title">RFID Input Password</string>
+    <string name="password_dlg_text">Write RFID device password:</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="instructions">Turn on bluetooth and pair the device</string>
+
+
+
+</resources>
